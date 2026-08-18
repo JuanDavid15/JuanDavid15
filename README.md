@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-ADSO%20SENA-2E86DE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Enfoque-IoT%20%26%20Seguridad-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Valle%20del%20Cauca-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-La%20Guajira-F39C12?style=for-the-badge" />
 </p>
 
 ---
